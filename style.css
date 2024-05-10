@@ -1,0 +1,32 @@
+.copy_right_footer
+  {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    line-height: 3;
+    text-align: center;
+  }
+
+  body 
+  {
+    background-image: "backgound.jpeg";
+    background-position: center;
+    background-size: cover;
+  }
+  
+h5 
+{
+  font-size: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: darkgray;
+  border:5px solid black ;
+  border-radius: 20px;
+}
+
+.mini_result
+{
+  font-size: 20px;
+  font-family: fantasy;
+}
